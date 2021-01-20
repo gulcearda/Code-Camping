@@ -40,8 +40,9 @@ namespace Kamp2
             }
 
             Console.WriteLine(kategoriEtiketi);
+            Console.WriteLine(kategoriEtiketi);
 
-          
+
         }
     }
 }
