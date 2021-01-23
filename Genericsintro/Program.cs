@@ -8,7 +8,10 @@ namespace Genericsintro
         {
             //string türünde bir liste, product deseydin product classında bir liste olacaktı.
             //Ama biz string dedik
-            MyList<string> isimler = new MyList<string>();
+
+            MyList<string> sehirler2 = new MyList<string>();
+            sehirler2.Add("Edirne");
+
 
            
 
